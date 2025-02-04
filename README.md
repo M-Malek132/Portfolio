@@ -5,4 +5,4 @@ A simple and elegant portfolio webpage built with pure HTML and CSS, inspired by
 ### Live Link: https://m-malek132.github.io/Portfolio/  
 
 ```html
-<link rel="stylesheet" href="path/to/style-two.css" />
+<link rel="stylesheet" href="./assets/css/style-two.css" />
