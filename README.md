@@ -14,7 +14,6 @@ Special thanks to Sudharsan Daniel for the original template and Mr. Anbuselvan 
 
 Connect with Me
 🌐 Website: [[malek40000](https://malek40000.netlify.app/)]
-💼 LinkedIn: []
 🐙 GitHub: [[GITHUB]](https://github.com/M-Malek132)
 ✉️ Email: [malek.mohammad132@gmail.com]
 
