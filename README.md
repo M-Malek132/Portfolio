@@ -13,8 +13,8 @@ Acknowledgments
 Special thanks to Sudharsan Daniel for the original template and Mr. Anbuselvan Rocky for mentorship.
 
 Connect with Me
-🌐 Website: [[Your Website Link](https://malek40000.netlify.app/)]
+🌐 Website: [[malek40000](https://malek40000.netlify.app/)]
 💼 LinkedIn: []
-🐙 GitHub: [[Your GitHub Profile]](https://github.com/M-Malek132)
+🐙 GitHub: [[GITHUB]](https://github.com/M-Malek132)
 ✉️ Email: [malek.mohammad132@gmail.com]
 
