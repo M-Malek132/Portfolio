@@ -285,66 +285,70 @@ section.projects-section {
   color: #fff;
 }
 
-/* Contact Section */
-section.contact-section {
-  background-color: #22282f;
-  color: #fff;
-  text-align: center;
-  padding: 30px;
+/* Contact Section Styling */
+#contact {
+    text-align: center;
+    padding: 50px;
 }
 
-.contact-section h2 {
-  font-size: 28px;
-  margin: 18px 0;
+#contact h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
 }
 
-.contact-section h2 > span {
-  color: var(--primary);
+#contact p {
+    font-size: 1.2rem;
+    color: #666;
 }
 
-.contact-section form div > input,
-textarea {
-  background-color: #c4c4c4;
-  width: 300px;
-  padding: 5px 8px;
-  margin-bottom: 10px;
-  border-radius: 5px;
-  border: none;
-  outline: none;
-  resize: none;
-  font-family: "Poppins", sans-serif;
+#contact ul {
+    list-style: none;
+    padding: 0;
 }
 
-.contact-section form div > input:focus,
-textarea:focus {
-  border: 1px solid var(--primary);
+#contact ul li {
+    font-size: 1.1rem;
+    margin: 10px 0;
 }
 
-.contact-section form div > button {
-  font-size: 14px;
+#contact ul li a {
+    color: #007bff;
+    text-decoration: none;
+    transition: 0.3s;
 }
 
-.contact__github {
-  margin-top: 15px;
+#contact ul li a:hover {
+    color: #0056b3;
 }
 
-.contact__github button {
-  padding: 10px 44px;
-  background-color: #171515;
-  font-size: 14px;
+/* Contact Form Styling */
+form {
+    max-width: 500px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
 }
 
-.contact__github button > a {
-  text-decoration: none;
-  color: #fff;
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
 
-.contact__github button > a > i {
-  font-size: 16px;
+form button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
 }
 
-.contact__github button:hover {
-  background-color: #030303;
+form button:hover {
+    background: #0056b3;
 }
 
 /* Footer */
