@@ -66,7 +66,7 @@ header ul li a:hover {
 
 /* Hero Section */
 section.hero-section {
-  background-color: var(--dark-primary);
+  background-color: #06141B;
   color: #fff;
   display: flex;
   align-items: center;
@@ -287,11 +287,13 @@ section.projects-section {
 
 /* Contact Section Styling */
 #contact {
+	background-color: #CCD0CF;
     text-align: center;
     padding: 50px;
 }
 
 #contact h2 {
+	color: #007bff;
     font-size: 2rem;
     margin-bottom: 20px;
 }
